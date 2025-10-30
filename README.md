@@ -1,2 +1,2 @@
 # C-Programming_codes.
-REGISTER NUMBER : 25BTCE125
+Simple C programming codes 
